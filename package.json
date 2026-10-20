@@ -1,0 +1,29 @@
+{
+  "name": "claude-cum",
+  "version": "0.1.0",
+  "description": "The Claude command Google invented, made real (unofficial parody).",
+  "license": "MIT",
+  "bin": {
+    "claude-cum": "bin/claude-cum.js"
+  },
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "cross-spawn": "^7.0.6"
+  },
+  "files": [
+    "bin/",
+    "README.md",
+    "LICENSE"
+  ],
+  "keywords": [
+    "claude",
+    "claude-code",
+    "parody",
+    "cli"
+  ]
+}
