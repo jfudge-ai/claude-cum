@@ -2,6 +2,8 @@
 
 **The Claude command Google invented, made real.**
 
+![Claude Cum mascot spraying white paint](assets/evil-mascot-spray-pfp.png)
+
 I was trying to look up one normal Claude Code flag. Google’s AI Overview looked me straight in the face and recommended this:
 
 ```text
